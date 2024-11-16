@@ -11,7 +11,7 @@ import commentRoutes from './routes/comment.route.js';
 dotenv.config();
 
 const PORT = process.env.PORT || 5000;
-const DB = process.env.ONLINE_MONGODB || process.env.LOCAL_MONGODB;
+const DB = process.env.MONGO_URI;
 
 mongoose.connect(DB).then(
     () => { console.log('MongoDB is Connected'); 
