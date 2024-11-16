@@ -1,6 +1,4 @@
-Certainly! Here's a **README.md** template for your project documentation in markdown format:
 
-```markdown
 # Blogify Pro - Backend Solution for Blogging Platform
 
 **Blogify Pro** is a powerful, scalable backend solution for building modern blog websites. Built with **Node.js**, **Express.js**, and **MongoDB**, this backend offers everything you need to manage users, posts, comments, and more. Ideal for developers looking to integrate a feature-rich blog backend, **Blogify Pro** is easy to deploy, customize, and extend.
